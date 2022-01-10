@@ -2,11 +2,9 @@
 
 # Hello, there! <img src="https://user-images.githubusercontent.com/53412533/148705229-cecbc349-ae77-4866-af13-838fe76a7a92.gif" width="30px">
 
-<p>
-  I love to learn and meet new people! <br />
-  Currently, I'm learning Swift and UIKit, I want to work creating amazing app's in iOS. <br /> 
-  I have some experience with React, before I fall in love with iOS I was studying about front-end.
-</p>  
+<p>I love to learn and meet new people!</p>
+<p>Currently, I'm learning Swift and UIKit, I want to work creating amazing app's in iOS.</p>
+<p>I have some experience with React, before I fall in love with iOS I was studying about front-end.</p>
 
 <div>
   <a href="https://github.com/brGuirra">
