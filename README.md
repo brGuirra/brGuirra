@@ -1,16 +1,32 @@
-<h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">I :heart: to learn and I want to be a frontend developer</h3>
+![Header](https://user-images.githubusercontent.com/53412533/148705020-f8adebbf-6b8a-4fc9-af76-a10225cf46af.jpg "Header")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brgg&label=Profile%20views&color=0e75b6&style=flat" alt="brgg" /> </p>
+# Hello, there! <img src="https://user-images.githubusercontent.com/53412533/148705229-cecbc349-ae77-4866-af13-838fe76a7a92.gif" width="30px">
 
-- 🌱 I’m currently learning **React, Next.js and TypeScript**
+<p>
+  I love to learn and meet new people! <br />
+  Currently, I'm learning Swift and UIKit, I want to work creating amazing app's in iOS. <br /> 
+  I have some experience with React, before I fall in love with iOS I was studying about front-end.
+</p>  
 
-- 📫 How to reach me **br.guirra@gmail.com**
+<div>
+  <a href="https://github.com/brGuirra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brGuirra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brGuirra&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruno-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Bruno-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Bruno-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+</div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bruno-guirra-7766b6209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-guirra-7766b6209" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div>
+  <a href="https://www.linkedin.com/in/bruno-guirra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-guirra-7766b6209" height="30" width="40" /></a>
+  <a href="https://twitter.com/https://twitter.com/br_guirra?t=5sgexdyyuqn8mxiu0lzecq&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/br_guirra?t=5sgexdyyuqn8mxiu0lzecq&s=09" height="30" width="40" /></a>
+</div>
