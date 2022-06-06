@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/53412533/148705020-f8adebbf-6b8a-4fc9-af76-a10225cf46af.jpg "Header")
 
-# Hello, there! <img src="https://user-images.githubusercontent.com/53412533/148705229-cecbc349-ae77-4866-af13-838fe76a7a92.gif" width="30px">
+# Hello, there! <img src="https://user-images.githubusercontent.com/53412533/148705229-cecbc349-ae77-4866-af13-838fe76a7a92.gif" width="30">
 
 <p>I love to learn and meet new people! 🙋🏽‍♂️</p>
 <p>Currently, I'm learning Swift and UIKit, I want to work developing amazing iOS apps. What drove me into mobile is the power that apps have to transform people's lives, today you can do almost everything using your smartphone, that's so cool!</p>
