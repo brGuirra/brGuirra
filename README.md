@@ -1,8 +1,8 @@
 # Hello, there! <img src="https://user-images.githubusercontent.com/53412533/148705229-cecbc349-ae77-4866-af13-838fe76a7a92.gif" width="30">
 
-<p>I love to learn and meet new people! 🙋🏽‍♂️</p>
+<p>Welcome to my GitHub profile! I'm passionate about learning and connecting with new people! 🙋🏽‍♂️</p>
 
-<p>I work as backend engineer in Brazil and currently I'm learning Go. I also have knowledge in frontend and mobile iOS development.</p>
+<p>I'm a Backend Engineer based in Brazil with a strong focus on building scalable and efficient systems. I have expertise in technologies such as Node.js, TypeScript, Nest.js, and Docker. Additionally, I'm experienced in frontend development and have knowledge in mobile iOS development.</p>
 
 <div>
   <a href="https://github.com/brGuirra">
